@@ -24,6 +24,7 @@ Heesung Kim(President of MECHA 2021)|23. December, 2021
   - Canny Edge Detection
   - Hough Transform
 
+## *
 pycharm 프로젝트 디렉토리에 .py files, 이미지 파일을 다 같이 보관한다
 ![image](https://user-images.githubusercontent.com/44498015/147886682-76592ce6-8039-4b9f-8770-3370be1140e1.png)
 
