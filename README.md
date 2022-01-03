@@ -2,6 +2,7 @@
 Author|Contact
 ---|---
 Heesung Kim(President of MECHA 2021)|mech9917@sogang.ac.kr
+
 Documentation Date : 23. December, 2021
 ## Contents
 ### 00. Orientation
