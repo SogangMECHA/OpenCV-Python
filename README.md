@@ -1,8 +1,8 @@
 # [2021-W] Seminar OpenCV-Python
-Author|Documentation Date
+Author|Contact
 ---|---
-Heesung Kim(President of MECHA 2021)|23. December, 2021
-
+Heesung Kim(President of MECHA 2021)|mech9917@sogang.ac.kr
+Documentation Date : 23. December, 2021
 ## Contents
 ### 00. Orientation
   - What is OpenCV
