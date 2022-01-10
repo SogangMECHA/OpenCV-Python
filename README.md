@@ -26,6 +26,7 @@ Documentation Date : 23. December, 2021
   - Hough Transform
 
 ## *
-pycharm 프로젝트 디렉토리에 .py files, 이미지 파일을 다 같이 보관한다
+Download Zip를 이용하여 자료를 다운로드 받고, 압축을 해제한 뒤,
+pycharm 프로젝트 디렉토리에 옮겨 아래  .py files, 이미지 파일을 다 같이 보관한다
 ![image](https://user-images.githubusercontent.com/44498015/147886682-76592ce6-8039-4b9f-8770-3370be1140e1.png)
 
